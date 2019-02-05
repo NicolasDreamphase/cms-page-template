@@ -16,7 +16,7 @@
     <body>
         <div class="c-coming-soon">
             <p class="u-center">
-                <img class="c-coming-soon__img" src="assets/img/coming-soon-warehouse5@3x.png">
+                <img class="c-coming-soon__img" src="assets/img/warehouse5-new-coming-soon.png">
             </p>
         </div>
     </body>
